@@ -2,7 +2,9 @@
   {
     "nome": "teste111",
     "idade": "144",
-    "peso": "222"
-  }
+    "peso": "222",
+    "sexo": "333",
+    "endereco: "982",
+}
 ]
 
